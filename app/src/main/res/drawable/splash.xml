@@ -1,0 +1,14 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="#ffffff"/>
+    </item>
+    <item android:gravity="center"
+        android:width="70dp"
+        android:height="70dp">
+
+            <bitmap
+                android:src="@drawable/icon_round"
+                android:gravity="fill_horizontal|fill_vertical"/>
+    </item>
+
+</layer-list>

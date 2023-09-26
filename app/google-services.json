@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "691828109295",
+    "firebase_url": "https://rov-fa264-default-rtdb.firebaseio.com",
+    "project_id": "rov-fa264",
+    "storage_bucket": "rov-fa264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691828109295:android:22ea8a0ea57c66e65a501a",
+        "android_client_info": {
+          "package_name": "com.mstudio.android.mstory.manuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691828109295-vltqjkovf7dgtld7ae4plam7fabeeulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97mffKqhUJgtxYku7uQ8wnQu90Yc7DKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691828109295-vltqjkovf7dgtld7ae4plam7fabeeulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691828109295:android:9bea585e95026bc75a501a",
+        "android_client_info": {
+          "package_name": "com.mstudio.android.mstory.rov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691828109295-vltqjkovf7dgtld7ae4plam7fabeeulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97mffKqhUJgtxYku7uQ8wnQu90Yc7DKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691828109295-vltqjkovf7dgtld7ae4plam7fabeeulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
