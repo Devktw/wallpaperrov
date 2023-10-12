@@ -28,7 +28,7 @@
       "name_tranfrom_skill_1":"",
       "name_tranfrom_skill_2":"",
       "name_tranfrom_skill_3":"",
-      "tip":"",
+      "tip":""
     },
 {
       "id":"2",
@@ -58,8 +58,7 @@
       "name_tranfrom_skill_1":"",
       "name_tranfrom_skill_2":"",
       "name_tranfrom_skill_3":"",
-      "tip":"",
+      "tip":""
     }
   ]
-
 }
